@@ -15,6 +15,30 @@ We’re building tools and content around:
 - **AI-powered content generators**
 - **WordPress/Webflow/Next.js integrations**
 
+
+## 🔍 Programmatic SEO in Action
+
+| Website | Framework | Database | Special Feature |
+|--------|-----------|----------|------------------|
+| [eosl.date](https://eosl.date) | Django | SQLite | Special JSON to format dates of different vendors |
+| [stockanalysis.com](https://stockanalysis.com) | Next.js (React) | PostgreSQL | Public companies data pages generated at scale |
+| [sgd.to](https://sgd.to) | Astro | PlanetScale | Dynamic exchange rate pages |
+| [tickjournal.com](https://tickjournal.com) | Remix | Supabase | Ticker-based financial journal articles |
+| [tickspike.markets](https://tickspike.markets) | Nuxt (Vue) | MySQL | Price tracking by programmatic tickers |
+| [finnovateacquisition.com](https://finnovateacquisition.com) | Jekyll | None (Static) | Auto-generated finance & acquisition landing pages |
+| [lotteryresultsambad.org](https://lotteryresultsambad.org) | WordPress | MariaDB | Daily keyword-targeted lottery result pages |
+| [joteo.net](https://joteo.net) | Astro | SQLite | Lightweight local SEO with templated pages |
+| [couriertracking.org.in](https://couriertracking.org.in) | Laravel | MySQL | Courier ID-based dynamic tracking pages |
+| [trackcourier.io](http://trackcourier.io) | Express (Node.js) | MongoDB | URL-based courier page generation |
+| [company-marketcap.github.io](https://company-marketcap.github.io) | GitHub Pages (Static) | JSON / JS Files | Company landing pages from structured data |
+| [inchcalculator.com](https://inchcalculator.com/) | React (Custom SPA) | Firebase | Unit conversion pages built programmatically |
+
+
+### ⭐ Featured Examples:
+- **[stockanalysis.com](https://stockanalysis.com)** — One of the best known large-scale programmatic SEO implementations in finance.
+- **[inchcalculator.com](https://inchcalculator.com/)** — Dominates unit conversion SERPs using highly structured programmatic pages.
+- **[tickspike.markets](https://tickspike.markets)** — Combines real-time data with SEO to rank long-tail finance keywords.
+
 ---
 
 ## 📈 Most Searched Topics
