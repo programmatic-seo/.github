@@ -12,18 +12,21 @@ Welcome to my Programmatic SEO consultancy. I help businesses scale their organi
 
 | Website | Stack | Highlights |
 |--------|-------|------------|
-| [eosl.date](https://eosl.date) | Django + SQLite | JSON-based multi-vendor date templates with custom schema |
 | [stockanalysis.com](https://stockanalysis.com) | Next.js + PostgreSQL | 5,000+ stock/company pages auto-generated with financial data |
 | [sgd.to](https://sgd.to) | Astro + PlanetScale | Lightweight exchange rate pSEO with internal linking clusters |
 | [tickjournal.com](https://tickjournal.com) | Remix + Supabase | Programmatic ticker journals with performance dashboards |
 | [tickspike.markets](https://tickspike.markets) | Nuxt + MySQL | Price tracking + change analytics by symbol and date |
-| [finnovateacquisition.com](https://finnovateacquisition.com) | Jekyll + Static | Public deal profiles and acquisition timelines at scale |
-| [lotteryresultsambad.org](https://lotteryresultsambad.org) | WordPress + MariaDB | Auto-publishing of daily lottery results and structured archives |
 | [joteo.net](https://joteo.net) | Astro + SQLite | Location-based service landing pages using templated URLs |
 | [couriertracking.org.in](https://couriertracking.org.in) | Laravel + MySQL | Courier-based URL generation with tracking automation |
 | [trackcourier.io](http://trackcourier.io) | Node.js + MongoDB | Courier SEO directory with provider-based taxonomy structure |
-| [company-marketcap.github.io](https://company-marketcap.github.io) | GitHub Pages + Markdown | Static generation of company listings from curated datasets |
 | [inchcalculator.com](https://inchcalculator.com) | React + Firebase | Programmatic unit conversions with keyword-focused landing pages |
+| [cmtoinches.co](https://cmtoinches.co/) | Static + HTML/JS | Single-purpose converter with thousands of auto-generated keyword pages |
+| [dogparknearme.co](https://dogparknearme.co/) | Astro + SQLite | Location-based dog park listings with embedded maps |
+| [savvytime.com](https://savvytime.com/) | Ruby on Rails + PostgreSQL | Time zone conversion pages at scale with custom slugs |
+| [tally.so/](https://tally.so/) | Next.js + Supabase | Dynamic pricing calculator with sharable links and param-based UIs |
+| [percentagecalculator.page](https://percentagecalculator.page/) | Static + JS | Programmatic percentage calculators for long-tail search queries |
+| [crontab.guru](https://crontab.guru/) | Static + JS | Human-readable cron expression explainer with dynamic examples |
+
 
 ## 👋 Who I Am
 
