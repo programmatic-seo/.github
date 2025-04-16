@@ -1,4 +1,4 @@
-# 🚀 Programmatic SEO Consultant – Subash Krishnan
+# 🚀 Programmatic SEO Consultant – Vinitha Subash
 
 **4.5M+ Organic Visitors | Scalable SEO Architecture | Django & WordPress Developer | 15+ Years of Web Experience**
 
@@ -27,7 +27,7 @@ Welcome to my Programmatic SEO consultancy. I help businesses scale their organi
 
 ## 👋 Who I Am
 
-I'm **Subash Krishnan**, a passionate **Programmatic SEO (pSEO)** consultant and developer with over **15 years in web frameworks**—long before the term "programmatic SEO" became trendy.
+I'm **Vinitha Subash**, a passionate **Programmatic SEO (pSEO)** consultant and developer with over **15 years in web frameworks**—long before the term "programmatic SEO" became trendy.
 
 I was part of the team behind **[babynames.com](https://babynames.com/)** back in **2011**, one of the earliest examples of structured, high-volume SEO content done right. What’s now called “programmatic SEO” has always been part of how I build.
 
